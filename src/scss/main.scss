@@ -7,9 +7,10 @@
 .header {
   background-color: darkcyan;
   height: 5rem;
-}
 
-.title--big {
+  &__title {
   padding: 1rem;
   color: white;
 }
+}
+
